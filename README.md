@@ -7,3 +7,6 @@ It's intend for educational purpose, for me to study how to create HTML and CSS 
 Starting date: June 29th, 2020
 Ending date: 
 Total time: 
+
+**Notes**
+1. To change nav's color to transparent, use `class=bg-transparent`
