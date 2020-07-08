@@ -5,6 +5,7 @@ This repository is a repository for me to recreate [Creative](https://startboots
 It's intend for educational purpose, for me to study how to create HTML and CSS template from looking and console. 
 
 Starting date: June 29th, 2020
+Redo from beginning: July 8th, 2020
 Ending date: 
 Total time: 
 
