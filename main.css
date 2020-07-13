@@ -9,6 +9,10 @@ body {
     font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+/*----------------------------------
+    NAVIGATION STYLING SECTION
+----------------------------------*/
+
 #navigation a.navbar-brand {
     font-weight: 800;
     font-size: 1.2em;
@@ -74,3 +78,42 @@ body {
     font-size: 0.85em;
     font-weight: 600;
 }
+
+/*----------------------------------
+    SECOND PAGE STYLING SECTION
+----------------------------------*/
+
+#second {
+    background-color: #f4623a;
+}
+
+#second h1 {
+    color: white;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+#second hr {
+    border: 0;
+    height: 3px;
+    width: 50px;
+    background: white;
+}
+
+#second p.lead {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1em;
+    font-family: "Merriweather";
+}
+
+#second button {
+    background-color: white;
+    height: 60px;
+    width: 185px;
+    border-radius: 10em;
+    font-size: 0.85em;
+    font-weight: 600;
+}
+
+
+
