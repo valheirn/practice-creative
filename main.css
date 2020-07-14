@@ -51,9 +51,10 @@ body {
 }
 
 /*Styling hr to become a little thick and colored*/
-#front hr {
+#front hr,
+#third hr  {
     border: 0;
-    height: 2px;
+    height: 3px;
     width: 50px;
     background: #f4623a;
 }
@@ -116,4 +117,35 @@ body {
 }
 
 
+/*----------------------------------
+    THIRD PAGE STYLING SECTION
+-----------------------------------*/
 
+#third {
+    background-color: white;
+    padding-bottom: 10px
+}
+
+#third h1 {
+    color: black;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+#third i {
+    color: #f4623a;
+    font-size: 4em;
+    padding-top: 20px
+}
+
+#third h2 {
+    color: black;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+#third p.lead {
+    color: #6c757d;
+    font-size: 0.95em;
+    font-family: "Merriweather";
+}
