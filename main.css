@@ -149,3 +149,52 @@ body {
     font-size: 0.95em;
     font-family: "Merriweather";
 }
+
+/*----------------------------------
+    FOURTH PAGE STYLING SECTION
+------------------------------------*/
+
+#fourth .overlay:hover {
+    opacity: 90%;
+  }
+
+#fourth .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #f4623a;
+}
+
+#fourth p.category {
+    color: rgba(255, 255, 255, 0.5);
+    font-family: "Merriweather";
+    font-size: 0.85em;
+    text-transform: uppercase;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#fourth p.project {
+    color: white;
+    font-family: "Merriweather";
+    font-size: 1.2em;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
