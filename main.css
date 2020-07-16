@@ -198,3 +198,26 @@ body {
     text-align: center;
 }
 
+
+/*----------------------------------
+    FIFTH PAGE STYLING SECTION
+----------------------------------*/
+
+#fifth {
+    background-color: #343a40;
+}
+
+#fifth h1 {
+    color: white;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+#fifth button {
+    background-color: white;
+    height: 60px;
+    width: 185px;
+    border-radius: 10em;
+    font-size: 0.85em;
+    font-weight: 600;
+}
