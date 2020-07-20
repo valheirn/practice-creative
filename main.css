@@ -221,3 +221,41 @@ body {
     font-size: 0.85em;
     font-weight: 600;
 }
+
+/*----------------------------------
+    SIXTH PAGE STYLING SECTION
+------------------------------------*/
+
+#sixth {
+    background-color: white;
+    padding-bottom: 10px
+}
+
+#sixth h1 {
+    color: black;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+#sixth hr {
+    border: 0;
+    height: 3px;
+    width: 50px;
+    background: #f4623a;
+}
+
+#sixth i {
+    color: #6c757d;
+    font-size: 3em;
+    padding-top: 25px
+}
+
+#sixth p.sixth-orange {
+    color: #f4623a;
+}
+
+#sixth p.lead {
+    color: #6c757d;
+    font-size: 1em;
+    font-family: "Merriweather";
+}
