@@ -6,6 +6,6 @@ It's intend for educational purpose, for me to study how to create HTML and CSS 
 
 Starting date: June 29th, 2020
 Redo from beginning: July 8th, 2020
-Ending date: 
-Total time: 
+Ending date: July 22th, 2020
+Total time: 8 days
 
